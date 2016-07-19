@@ -1,3 +1,7 @@
 .head{font-style: bold;font-size: 100%}
 
-body{background:url(image/bak.png) no-repeat center}
+/*body{background:url(image/bak.png) no-repeat center} */
+body{ background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 60%, #fff), linear-gradient(70deg, #e0f1ff 32%, #fffae3);
+    border-bottom: medium none #fff;
+    color: #234766;
+    margin-top: 0;}
